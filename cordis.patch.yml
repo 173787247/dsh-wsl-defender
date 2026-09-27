@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-wsl-defender
+      name: dsh-wsl-defender
+      config:
+        timeoutMs: 30000
